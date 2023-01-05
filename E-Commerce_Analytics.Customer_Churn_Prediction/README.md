@@ -31,7 +31,7 @@ By the end of this notebook, the author wishes to answer these questions which a
 
 ## Dataset Information
 
-Source: https://github.com/owenagitza/Python-Portfolio/blob/main/E-Commerce%20Analytics.%20Customer%20Churn%20Prediction/Data/data_ecommerce_customer_churn.csv
+Source: https://github.com/owenagitza/Python-Portfolio/blob/main/E-Commerce_Analytics.Customer_Churn_Prediction/Data/data_ecommerce_customer_churn.csv
 
 The dataset contains a range of the customers attributes collected by the company since they were registered. As such, there should be no need to expend additional resource to acquire the data for the modeling. This dataset is a modified version of the one provided by [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction).
 

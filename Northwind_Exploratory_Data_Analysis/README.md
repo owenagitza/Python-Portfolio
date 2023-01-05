@@ -18,7 +18,7 @@ In this notebook, a specific version of `northwind` is used as a reference datab
 
 ## Database Information
 
-Source: https://github.com/owenagitza/Python-Portfolio/blob/main/Northwind%20Exploratory%20Data%20Analysis/Data/Northwind%20Database.sql
+Source: https://github.com/owenagitza/Python-Portfolio/blob/main/Northwind_Exploratory_Data_Analysis/Data/Northwind%20Database.sql
 
 `northwind` database consists of 13 tables: <br>
 - `categories`  : Stores information about product categories
