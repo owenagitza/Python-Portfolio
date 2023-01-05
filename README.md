@@ -10,8 +10,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 - ### Data Analysis and Visualisation
-	- __Python__
-		- [Northwind Exploratory Data Analysis](https://github.com/owenagitza/Python-Portfolio/tree/main/Northwind%20Exploratory%20Data%20Analysis): Data analysis and visualization of the Northwind database. This is my atttempt to incorporate SQL into my data learning. The author attempts to answer business question using data analytics, all of which are focusing on deriving data-driven decisions to improve sales performance of Northwind
+
+	- [Northwind Exploratory Data Analysis](https://github.com/owenagitza/Python-Portfolio/tree/main/Northwind%20Exploratory%20Data%20Analysis): Data analysis and visualization of the Northwind database. This is my atttempt to incorporate SQL into my data learning. The author attempts to answer business question using data analytics, all of which are focusing on deriving data-driven decisions to improve sales performance of Northwind
 		
 	_Tools: Matplotlib, SQL, Pandas, Plotly, Seaborn_
 - ### Machine Learning
@@ -28,9 +28,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Micro Projects: 
 
-	- __Python__
-		- [Simple Operational Program](https://github.com/owenagitza/Python-Portfolio/blob/01847cd4e9442fdf7037f55fdf204c1b7fc05bd6/Simple%20Operational%20Program/SimpleOperationalProgram_OwenAJ.py): This is my first ever program written in Python. This micro project simply is my first stepping stone into the programming world
-		
+	- [Simple Operational Program](https://github.com/owenagitza/Python-Portfolio/blob/01847cd4e9442fdf7037f55fdf204c1b7fc05bd6/Simple%20Operational%20Program/SimpleOperationalProgram_OwenAJ.py): This is my first ever program written in Python. This micro project simply is my first stepping stone into the programming world
+	
 ### Author info
 If you like what you see and interested to know more about my work, 
 pay my LinkedIn profile a visit or shoot me an email as provided below.
