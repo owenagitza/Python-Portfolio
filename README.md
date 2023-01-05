@@ -1,5 +1,5 @@
 # Python Portfolio
-This repository contains my portfolio of Python project projects revolving around its application in data, including data analytics and data science. I managed this repository for academic, self-learning, and hobby purposes.
+This repository contains my portfolio of Python projects revolving around its application in data, including data analytics and data science. I managed this repository for academic, self-learning, and hobby purposes.
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
