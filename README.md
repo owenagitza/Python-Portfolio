@@ -16,7 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		_Tools: Matplotlib, SQL, Pandas, Plotly, Seaborn_
 - ### Machine Learning
 
-	- [E-Commerce Analytics: Customer Churn Prediction](https://github.com/owenagitza/Python-Portfolio/tree/main/E-Commerce_Analytics.Customer_Churn_Prediction): A supervised classification model to predict customer's churn rate. This notebook provides an end-to-end demonstration of applied machine learning. The scope of topics discussed in this notebook includes ETL, exploratory data analysis, supervised classification, imbalanced dataset problem, data analyis, hyperparameter tuning, threshold moving, etc.
+	- [E-Commerce Analytics: Customer Churn Prediction](https://github.com/owenagitza/Python-Portfolio/tree/main/E-Commerce_Analytics.Customer_Churn_Prediction): A supervised classification model to predict customer's churn rate. This notebook provides an end-to-end demonstration of applied machine learning. The scope of topics discussed in this notebook includes ETL, exploratory data analysis, supervised classification, imbalanced dataset problem, data analysis, hyperparameter tuning, threshold moving, etc.
 
 		_Tools: Imblearn, LightGBM, Matplotlib, Pandas, Plotly, Scikit-learn, XGBoost_
 
