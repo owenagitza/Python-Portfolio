@@ -12,7 +12,7 @@
 
 `northwind` database is a sample database that is provided by Microsoft to demonstrate the features of some of its products. The `northwind` database contains sales data for a fictitious company called *Northwind Traders*, which imports and exports specialty foods from around the world.
 
-In this notebook, a specific version of `northwind` is used as a reference database for the author to complete the data analysis project. The database is provided in the `Data` subfolder as SQL script.
+In this notebook, a specific version of `northwind` is used as a reference database for me to complete the data analysis project. The database is provided in the `Data` subfolder as SQL script.
 
 ---
 
@@ -49,7 +49,7 @@ To get the notebook, simply download or clone this repository.  From there, you 
 
 ## Problem Statement
 
-By the end of this notebook, the author wishes to answer 4 questions, all of which are focusing on deriving data-driven decisions to improve **sales performance** of Northwind. In the attempt to answer these questions, the author determined **products** as the main tool to achieve the objectives. <br> <br>
+By the end of this notebook, I wish to answer 4 questions, all of which are focusing on deriving data-driven decisions to improve **sales performance** of Northwind. In the attempt to answer these questions, I determined **products** as the main tool to achieve the objectives. <br> <br>
 The questions are listed as the following:
 > 1. How was the sales performance trend of the Northwind company? Was it growing or was it declining?
 > 1. What products contributed the most to the Northwind's revenue on average? Who supplied them?

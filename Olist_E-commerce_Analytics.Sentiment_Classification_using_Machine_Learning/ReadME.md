@@ -26,7 +26,7 @@ The traditional way of garnering feedback for companies has been through surveys
 
 As the frontline of e-commerce business in Brazil, Olist may find the automation of review analysis useful since Olist has a large database of user reviews at its disposal. One such utilization of reviews is **sentiment analysis**. Sentiment analysis has been one of the most active research areas in natural language processing since early 2000 . The aim of sentiment analysis is to define automatic tools able to extract subjective information from texts in natural language, such as opinions and sentiments, so as to create structured and actionable knowledge to be used by either a decision support system or a decision maker [Pozzi et al., 2016].
 
-Hence, this notebook tries to perform a sentiment analysis model that could sort through thousands of reviews and grasp the overall sentiment of customers in an instance. Furthermore, by the end of this notebook, the authors also wish to answer the following questions:
+Hence, this notebook tries to perform a sentiment analysis model that could sort through thousands of reviews and grasp the overall sentiment of customers in an instance. Furthermore, by the end of this notebook, I wish to answer the following questions:
 1. What is the best modeling approach to be used for this sentiment analysis?
     - What model performs the best?
     - How does the best model's performance compare to the other models?
@@ -133,5 +133,3 @@ To get the notebook, simply download or clone this repository.  From there, you 
 ## Author Info
 
 - LinkedIn - [Owen Agitza](https://www.linkedin.com/in/owenagitza/)
-- LinkedIn - [Alfian](https://www.linkedin.com/in/alfian-05238b125/)
-

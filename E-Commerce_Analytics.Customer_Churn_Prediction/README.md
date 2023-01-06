@@ -19,7 +19,7 @@ This notebook provides an end-to-end demonstration of **E-commerce analytics: Cu
 
 An e-commerce company is interested to find out the behavior of their customers and possibily predict future customer churn. Churn refers to the situation where a customer of a company stops using its product and leaves the company. The success of this company is highly dependent on its ability to attract new customers while holding on to the existing ones. Therefore, this analysis would help the management team to use their budget wisely to target potential churners and hence increasing the company's bottomline.
 
-By the end of this notebook, the author wishes to answer these questions which are listed as follows:
+By the end of this notebook, I wish to answer these questions which are listed as follows:
 
 1. What is the best modeling approach to be used for this customer churn analysis?
     - What model performs the best?

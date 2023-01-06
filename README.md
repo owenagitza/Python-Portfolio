@@ -11,20 +11,20 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 - ### Data Analysis and Visualisation
 
-	- [Northwind Exploratory Data Analysis](https://github.com/owenagitza/Python-Portfolio/tree/main/Northwind_Exploratory_Data_Analysis): Data analysis and visualization of the Northwind database. This is my atttempt to incorporate SQL into my data learning. The author attempts to answer business question using data analytics, all of which are focusing on deriving data-driven decisions to improve sales performance of Northwind
+	- [Northwind Exploratory Data Analysis](https://github.com/owenagitza/Python-Portfolio/tree/main/Northwind_Exploratory_Data_Analysis): Data analysis and visualization of the Northwind database. This is my attempt to incorporate SQL into my data learning. I try to answer business question using data analytics, all of which are focusing on deriving data-driven decisions to improve sales performance of Northwind
 		
-	_Tools: Matplotlib, SQL, Pandas, Plotly, Seaborn_
+		_Tools: Matplotlib, SQL, Pandas, Plotly, Seaborn_
 - ### Machine Learning
 
 	- [E-Commerce Analytics: Customer Churn Prediction](https://github.com/owenagitza/Python-Portfolio/tree/main/E-Commerce_Analytics.Customer_Churn_Prediction): A supervised classification model to predict customer's churn rate. This notebook provides an end-to-end demonstration of applied machine learning. The scope of topics discussed in this notebook includes ETL, exploratory data analysis, supervised classification, imbalanced dataset problem, data analyis, hyperparameter tuning, threshold moving, etc.
 
-	_Tools: Imblearn, LightGBM, Matplotlib, Pandas, Plotly, Scikit-learn, XGBoost_
+		_Tools: Imblearn, LightGBM, Matplotlib, Pandas, Plotly, Scikit-learn, XGBoost_
 
 - ### Natural Language Processing
 
 	- [Olist E-Commerce Analytics: Sentiment Classification using Machine Learning](https://github.com/owenagitza/Python-Portfolio/tree/main/Olist_E-commerce_Analytics.Sentiment_Classification_using_Machine_Learning): A supervised NLP model that classifies positive and negative reviews. This notebook provides an end-to-end demonstration of **Olist E-commerce analytics: Sentiment classification using machine learning**. The scope of topics discussed in this notebook includes ETL,  exploratory data analysis, and machine learning (supervised NLP classification, imbalanced dataset problem, hyperparameter tuning, threshold moving, etc.)
 	
-	_Tools: Imblearn, Matplotlib, NLTK, Pandas, Plotly, RegEx, Scikit-learn, Seaborn, XGBoost_
+		_Tools: Imblearn, Matplotlib, NLTK, Pandas, Plotly, RegEx, Scikit-learn, Seaborn, XGBoost_
 
 - ### Micro Projects: 
 
