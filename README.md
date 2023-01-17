@@ -6,7 +6,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt
 1. If there is a database required to be installed, run the SQL script inside your RBDMS
-1. Run notebooks as usual by using Jupyter Notebook server or VSCode, etc
+1. Run notebooks as usual by using Jupyter Notebook server or VSCode, etc.
 
 ## Contents
 - ### Data Analysis and Visualisation
@@ -16,7 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		_Tools: Matplotlib, SQL, Pandas, Plotly, Seaborn_
 - ### Machine Learning
 
-	- [E-Commerce Analytics: Customer Churn Prediction](https://github.com/owenagitza/Python-Portfolio/tree/main/E-Commerce_Analytics.Customer_Churn_Prediction): A supervised classification model to predict customer's churn rate. This notebook provides an end-to-end demonstration of applied machine learning. The scope of topics discussed in this notebook includes ETL, exploratory data analysis, supervised classification, imbalanced dataset problem, data analyis, hyperparameter tuning, threshold moving, etc.
+	- [E-Commerce Analytics: Customer Churn Prediction](https://github.com/owenagitza/Python-Portfolio/tree/main/E-Commerce_Analytics.Customer_Churn_Prediction): A supervised classification model to predict customer's churn rate. This notebook provides an end-to-end demonstration of applied machine learning. The scope of topics discussed in this notebook includes ETL, exploratory data analysis, supervised classification, imbalanced dataset problem, data analysis, hyperparameter tuning, threshold moving, etc.
 
 		_Tools: Imblearn, LightGBM, Matplotlib, Pandas, Plotly, Scikit-learn, XGBoost_
 
@@ -26,7 +26,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 		_Tools: Imblearn, Matplotlib, NLTK, Pandas, Plotly, RegEx, Scikit-learn, Seaborn, XGBoost_
 
-- ### Micro Projects: 
+- ### Micro Projects
 
 	- [Simple Operational Program](https://github.com/owenagitza/Python-Portfolio/tree/main/Simple_Operational_Program): This is my first ever program written in Python. This micro project simply is my first stepping stone into the programming world
 	
